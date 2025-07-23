@@ -1,0 +1,136 @@
+
+PROFESSIONAL SUMMARY
+Full Stack .NET Developer with 7+ years of hands-on experience building enterprise applications using ASP.NET Core, React/Angular, and cloud-native architecture (Azure & AWS). Proven track record in WCAG 2.2 accessibility compliance, CI/CD automation, and building performant, scalable APIs, and SPAs.
+•	Developed enterprise web applications using ASP.NET Core, ASP.NET MVC, C#, and Web API and ADO.NET.
+•	Proficient in JavaScript (ES6+) and TypeScript, with experience in state management libraries such as Redux and NGRX.
+•	Built ADA and WCAG 2.2-compliant user interfaces using Angular (v2–19), React, HTML5, ARIA, CSS3, Tailwind, Bootstrap, and SASS.
+•	Delivered responsive, cross-browser-compatible frontends using modern UI design principles and performance optimizations.
+•	Created high-performance REST APIs and microservices using ASP.NET Core, C#, Entity Framework Core with LINQ, and Dapper.
+•	Integrated OAuth2, JWT, and SSO for secure authentication and authorization workflows with Swagger documentation.
+•	Developed full-stack applications using React and Node.js/Express.js for frontend and backend integration in microservices architecture.
+•	Implemented cloud-native solutions using Azure Functions, Azure SQL, Blob Storage, VMs, Service Bus, Event Grid, and Active Directory.
+•	Developed cloud-native solutions using AWS (Lambda, EC2, S3, RDS, etc.) and containerized applications using Docker and Kubernetes.
+•	Automated CI/CD pipelines with Azure DevOps and GitHub Actions; used Terraform for Infrastructure as Code (IaC).
+•	Proficient in SQL Server (T-SQL, indexing, stored procedures, SSIS, SSRS) with strong database design skills.
+•	Wrote robust unit tests using Jest (frontend) and NUnit/XUnit (backend) to ensure code quality and reliability.
+•	Expert in Git workflows, branching strategies, pull request handling, and version control best practices.
+•	Experienced in software development and project life cycle activities following Agile and SDLC methodologies.
+•	Provided L3 production support, performed Root Cause Analysis (RCA), and tracked issues using JIRA, Splunk, and Freshdesk.
+•	Domain experience in Banking, Financial Services, and Telecommunications, aligning with compliance and security requirements.
+•	Worked on a B2B FinTech SaaS platform, enhancing user workflows and integrating third-party tools like Chargebee, Xero, QuickBooks, SendGrid, and TrueLayer for seamless accounting, billing, and communication features.
+
+TECHNICAL SKILLS
+Programming Languages:
+C#, JavaScript (ES6+), TypeScript, SQL, ECMAScript
+
+Markup & Styling:
+HTML5, CSS3, SASS, Semantic HTML
+
+Frontend Technologies & Frameworks:
+Angular (v2–19), React (Hooks, Redux, Next.js), NGRX, RXJS, Angular Material, PrimeNG, jQuery, Bootstrap (v4+), Tailwind CSS, Micro Frontend Architecture
+
+Backend & Server-Side:
+.NET (Core, 7+), ASP.NET MVC, Web API, ADO.NET, Entity Framework Core, Dapper, Node.js, Express.js, RESTful APIs
+
+Cloud & DevOps:
+Azure (Functions, VMs, Blob Storage, SQL DB, Active Directory, Service Bus, Event Grid, Application Insights, Key Vault, API Gateway)
+AWS (Lambda, EC2, S3, RDS, SQS, SNS, IAM, CloudWatch)
+Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps, Jenkins, CI/CD Pipelines, ARM Templates
+
+Databases & Reporting:
+SQL Server, Azure SQL, AWS RDS, T-SQL, SSIS, SSRS, MongoDB
+
+Testing & Debugging:
+Jest, NUnit, XUnit, Jasmine, Postman, Swagger/OpenAPI, BrowserStack, React DevTools, Redux DevTools, Angular DevTools, Lighthouse, Accessibility Insights, Code Linters, Unit & Integration Testing
+
+Version Control:
+Git, GitHub, GitLab, Bitbucket, Tortoise SVN
+
+Build & Bundling:
+Webpack, Vite, Parcel, NPM, Yarn
+
+Accessibility & Optimization:
+WCAG 2.2, ADA Compliance, ARIA Roles, Screen Reader Support (JAWS, NVDA), Performance Optimization, Lazy Loading, Responsive Design, Lighthouse Audits
+
+Project Methodologies:
+Agile (Scrum), SDLC, Waterfall
+
+Other Tools & Skills:
+Swagger/OpenAPI, OAuth2, JWT, SSO, Splunk, Freshdesk, JIRA, Design Patterns, Component Reusability, RCA
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Client: Claro									June 2024 – Present
+Senior UI / Full Stack Developer							
+•	Developed and maintained telecom applications using .NET Core, ASP.NET MVC, React ecosystem (React, Redux, Hooks, Next.js), and Tailwind CSS for consistent, accessible, and responsive UI design
+•	Created high-performance RESTful Web APIs and microservices using ASP.NET Core, ADO.NET, Dapper, and Entity Framework Core
+•	Optimized UI Lighthouse scores from 65 to 95+ using lazy loading, SSR (Next.js), and image optimizations, resulting in improved SEO and load times
+•	Conducted manual and automated accessibility audits (WAVE, Axe, Accessibility Insights), ensuring full WCAG 2.2 and ADA compliance with keyboard-navigable, screen reader-compatible components using ARIA roles
+•	Led accessibility-first development across projects, achieving over 90% WCAG 2.2 audit pass rates using Lighthouse and Accessibility Insights
+•	Integrated AWS (S3, Lambda, CloudFront, IAM) and Azure services (Functions, Blob Storage, SQL Database, Service Bus, Event Grid, Active Directory) for scalable, secure hybrid-cloud architecture
+•	Developed scalable backend APIs and services to support high-throughput telecom operations, including authentication/authorization workflows using OAuth2, JWT, and SSO with Swagger documentation
+•	Designed, implemented, and maintained CI/CD pipelines using Azure DevOps, GitHub Actions, and Terraform for Infrastructure as Code (IaC)
+•	Collaborated with cross-functional Agile teams through sprint planning, daily stand-ups, retrospectives, and backlog grooming to deliver iterative product features
+•	Provided L3 production support, performed Root Cause Analysis (RCA) on critical incidents, reducing downtime and improving issue resolution speed
+•	Managed client requests and network issues using Jira and Freshdesk, prioritizing based on severity and impact for timely resolution
+•	Performed technical troubleshooting using Splunk, React/Redux DevTools, Chrome Debugger, Postman, and Swagger/OpenAPI
+•	Developed full-stack solutions with React frontend and Node.js/Express.js backend integration within microservices architecture
+•	Containerized applications using Docker and Kubernetes to enable scalable deployments
+•	Gathered and communicated technical requirements from stakeholders to development teams, ensuring clear implementation guidelines
+•	Maintained and improved code quality through refactoring, unit testing (Jest, NUnit/XUnit), and comprehensive technical documentation
+Environment: HTML5, CSS3, JavaScript, TypeScript, React (Redux, Hooks, Next.js), Angular, Tailwind CSS, C#, .NET Core, ASP.NET, Web API, Entity Framework Core, ADO.NET, LINQ, SQL Server, MongoDB, AWS (S3, Lambda, IAM, CloudFront), Azure (Functions, Blob Storage, SQL Database, Service Bus, Event Grid), Microservices, Docker, Kubernetes, REST APIs, Postman, Swagger, GitHub Actions, Azure DevOps, Bitbucket, Visual Studio, JIRA, Freshdesk, Splunk, WCAG 2.2, Accessibility Insights, WAVE, Axe, Lighthouse.
+
+Client: Capium Accounting Solutions					Mar 2020 - May 2024	
+Full Stack Developer | Accessibility & UI Optimization
+•	Developed scalable, accessible web applications using React, Angular (9–14+), TypeScript, JavaScript, HTML5, and CSS3 within Agile teams.
+•	Migrated legacy JSP and ASP.NET applications to modern React and Angular frameworks, reducing technical debt and improving maintainability by 35%.
+•	Built reusable React components, custom hooks, and modular Angular libraries to streamline development and enforce consistency.
+•	Ensured WCAG 2.2 compliance using tools like Axe, Lighthouse, and Accessibility Insights; integrated automated accessibility checks into CI/CD.
+•	Created inclusive UIs with semantic HTML, ARIA roles, and full keyboard navigation support for screen readers.
+•	Designed and consumed RESTful APIs and backend services using ASP.NET Core, C#, Web API, Entity Framework Core, Dapper, ADO.NET, and LINQ.
+•	Developed secured authentication flows using OAuth2 and JWT; implemented role-based access control in enterprise applications.
+•	Integrated AWS (S3, CloudFront, Cognito, Lambda) and Azure (Functions, Blob Storage, SQL DB, Event Grid, Service Bus) for cloud-native, scalable solutions.
+•	Managed CI/CD pipelines with GitHub Actions and Azure DevOps, automating build, test, linting, and deployment stages.
+•	Wrote unit and integration tests using XUnit, NUnit, and Jest to ensure test coverage and prevent regression issues.
+•	Collaborated with cross-functional teams (QA, DevOps, Product Owners) in Agile/Scrum environments, actively participating in sprint planning, reviews, and retrospectives.
+•	Refactored legacy AngularJS modules into Angular 14+ and React Hooks, boosting performance and simplifying maintenance.
+•	Improved SQL query efficiency and API response times by up to 40% through query optimization and caching strategies.
+•	Handled tax compliance updates for HMRC regulations by aligning backend logic and calculations with government standards.
+•	Conducted code reviews, enforced coding standards, and maintained technical documentation to ensure code quality and knowledge sharing.
+•	Provided Tier-2/3 technical support and performed RCA to address production incidents, minimize downtime, and ensure stability.
+Environment: React (Hooks, Redux, Context API, Next.js), Angular (9–14+), TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, ASP.NET Core, ASP.NET MVC, C#, Web API, Node.js, Express.js, Entity Framework Core, Dapper, ADO.NET, SQL Server, Azure (Functions, Service Bus, Blob Storage, SQL Database), AWS (S3, CloudFront, Cognito, Amplify, Lambda), GitHub Actions, Azure DevOps, Visual Studio, Postman, Swagger, Splunk, SendGrid, Jest, BrowserStack, Axe, Lighthouse, Accessibility Insights, WAVE, ARIA, JAWS, NVDA, Bitbucket, Agile/Scrum.
+
+
+
+
+Rarna Software Solutions							June 2018 - Feb 2020
+Web Developer						             
+•	Contributed to core modules of a B2C retail web application using Angular and React to improve order lifecycle, shipment tracking, and customer engagement, reducing cart abandonment by 15%.
+•	Developed scalable event-driven backend services using Node.js and Express.js for improved performance and service responsiveness.
+•	Assisted in supporting and enhancing .NET Core modules, participated in code reviews, and refactored legacy ASP.NET codebases for maintainability.
+•	Designed and implemented token-based authentication with Passport.js, integrating role-based access control (RBAC) using Azure Active Directory.
+•	Used NgRx and Redux for reliable state management and seamless UI-data synchronization across Angular and React components.
+•	Applied clean OOP principles and modular design patterns to maintain high backend code quality and extensibility.
+•	Embedded accessibility best practices (ARIA, WCAG) across the SDLC; conducted team training to foster inclusive design culture.
+•	Followed Agile/Scrum methodology—engaged in sprint planning, stand‑ups, grooming, and retrospectives with cross-functional stakeholders.
+•	Created unit and end to end tests for Angular components using Jest and Jasmine to ensure robust, regression‑free deployments.
+•	Monitored system health and performance using Azure Monitor, Application Insights, and AWS CloudFront/SNS for proactive troubleshooting.
+•	Integrated REST APIs, managed content delivery via AWS (CloudFront) and caching via SNS, improving response speed by up to 30%.
+
+Environment: Angular (v9–14+, NgRx), React (Hooks, Context API, Next.js), JavaScript, TypeScript, HTML5, CSS3, Bootstrap, SASS, Tailwind CSS, Node.js, Express.js, RESTful APIs, .NET Core, C#, ASP.NET Web Forms, ASP.NET Core Web APIs, Entity Framework Core, Dapper ORM, SQL Server, ADO.NET, Passport.js, Role-Based Access Control (RBAC), AWS (SNS, CloudFront, Lambda), Azure (Monitor, Application Insights, Log Analytics), Git, Bitbucket, Azure DevOps, GitHub Actions, Swagger, Postman, Splunk, BrowserStack, JEST, Visual Studio, Accessibility Tools (ARIA, WCAG, Axe, WAVE, JAWS, NVDA, Accessibility Insights), Agile/Scrum, CI/CD pipelines, Application Performance Monitoring (APM).
+
+EDUCATION
+•	Bachelor of Engineering: Computer Science and Engineering, India.
+
+REWARDS AND RECOGNITION
+•	Awarded for excellence in web development at TECHQUEST2K16
+•	Member of Stumagz tech community
+•	Built a full UI page to display transactions using business logic
+•	Helped teammates fix issues in HTML, CSS, JavaScript, Angular, and ReactJS
+•	Supported QA team by giving feedback and testing different scenarios
+•	Wrote unit test cases during development
